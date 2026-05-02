@@ -39,7 +39,7 @@ Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, Java e
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=maxmati1&style=flat&color=5c5c5c)
+
 
 </div>
 
