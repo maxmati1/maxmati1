@@ -16,8 +16,7 @@
 
 ## Apresentação
 
-Me chamo Matheus e atualmente curso Engenharia de Software. Tenho interesse em tecnologia, programação e inteligência artificial, buscando constantemente evoluir minhas habilidades através de estudos e projetos práticos.
-
+Me chamo Matheus e atualmente curso Engenharia de Software. Tenho interesse em tecnologia, programação e dados, com foco em lógica de programação, resolução de problemas e análise de informações. Busco constantemente evoluir minhas habilidades por meio de estudos e aplicação prática em projetos.
 Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, Java e Python.
 
 ---
